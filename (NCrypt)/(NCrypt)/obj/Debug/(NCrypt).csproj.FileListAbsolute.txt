@@ -1,0 +1,10 @@
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\bin\Debug\(NCrypt).exe.config
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\bin\Debug\(NCrypt).exe
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\bin\Debug\(NCrypt).pdb
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\obj\Debug\(NCrypt).csproj.AssemblyReference.cache
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\obj\Debug\_NCrypt_.Form1.resources
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\obj\Debug\_NCrypt_.Properties.Resources.resources
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\obj\Debug\(NCrypt).csproj.GenerateResource.cache
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\obj\Debug\(NCrypt).csproj.CoreCompileInputs.cache
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\obj\Debug\(NCrypt).exe
+C:\Users\Denzel\source\repos\(NCrypt)\(NCrypt)\obj\Debug\(NCrypt).pdb
